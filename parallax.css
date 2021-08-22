@@ -141,4 +141,7 @@ span:hover {
   .ctext {
     line-height: 1.8em;
   }
+  nav {
+    display:none
+  }
 }
